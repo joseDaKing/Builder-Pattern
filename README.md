@@ -1,13 +1,6 @@
-## 01.FFC-Basic-algorithm-assignment
-[Freecodecamp](https://www.freecodecamp.org/) [basic algorithm assigment 01](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
+## Design Patterns
 
-# Factorialize a Number
+# Builder Pattern 
   
-Return the factorial of the provided integer.
-If the integer is represented with the letter n, a factorial is the product of all positive integers less than or equal to n.
-
-Factorials are often represented with the shorthand notation n!
-
-For example: 5! = 1 * 2 * 3 * 4 * 5 = 120
-
-Only integers greater than or equal to zero will be supplied to the function.
+Here is my implementation of the builder pattern.
+I have created function that can create string and manipulate it.
